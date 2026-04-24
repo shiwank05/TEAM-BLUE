@@ -27,7 +27,7 @@ This app allows a team to manage its members by:
 ---
 
 ## Project Structure
-
+```
 TEAM-BLUE/
 ├── backend/
 │   ├── server.js
@@ -47,7 +47,7 @@ TEAM-BLUE/
 │   └── package.json
 ├── .gitignore
 └── README.md
-
+```
 ---
 
 ## Installation Steps
