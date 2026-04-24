@@ -1,4 +1,4 @@
-# TEAM-TRIUMF — Student Team Members Management Application
+# TEAM-BLUE — Student Team Members Management Application
 
 A full-stack web application to manage student team members built for the 21CSS301T Full Stack Development course at SRMIST.
 
